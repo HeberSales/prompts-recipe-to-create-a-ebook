@@ -28,26 +28,8 @@ seguem abaixo.
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  **título**  | Crie um titulo de um ebook sobre o tema de SQL, o ebook é do nicho de programação, e o subnicho é Analise de Dados, o titulo deve ser épico e curto, e tenha uma temática mais nerd, me liste 10 variações de titulos                                                        |
-| **conteúdo** | Faça um texto para ebook, com foco em SQL para Analise de Dados, com exemplos em código
-
-{REGRAS}
->Explique sempre de uma maneira simples,
->Deixe o texto enxuto,
->Sempre traga exemplos de código em contextos reais,
->Sempre deixe um título sugestivo por tópico,
->Faça um sumario dos tópicos abordados,
->Faça utilizando uma temática Star Wars |
-
-| **Post Linkedin** | Me escreva uma postagem para o Linkedin referente ao ebook feito acima sobre SQL para Analise de Dados
-
-{REGRAS}
->Informar que fiz durante o Bootcamp "Fundamentos de IA para Devs" do Santander,
->Informar que o foi utilizado Prompts Ricos para geração dos textos e imagens com IA,
-> Use Analogias simples e hipérboles,
->Informe que o ebook é feito para pessoas que tem interesse na Area de Analise de Dados ou SQL,
->Informar que são para iniciantes em SQL,
->Informe que o foco do ebook é na utilização dos comandos SQL,
->Informe que todos os prompts utilizados se encontram em meu GitHub |
+| **conteúdo** | Faça um texto para ebook, com foco em SQL para Analise de Dados, com exemplos em código{REGRAS}>Explique sempre de uma maneira simples,>Deixe o texto enxuto,>Sempre traga exemplos de código em contextos reais,>Sempre deixe um título sugestivo por tópico,>Faça um sumario dos tópicos abordados,>Faça utilizando uma temática Star Wars |
+| **Post Linkedin** | Me escreva uma postagem para o Linkedin referente ao ebook feito acima sobre SQL para Analise de Dados{REGRAS}>Informar que fiz durante o Bootcamp "Fundamentos de IA para Devs" do Santander,>Informar que o foi utilizado Prompts Ricos para geração dos textos e imagens com IA,> Use Analogias simples e hipérboles,>Informe que o ebook é feito para pessoas que tem interesse na Area de Analise de Dados ou SQL,>Informar que são para iniciantes em SQL,>Informe que o foco do ebook é na utilização dos comandos SQL,>Informe que todos os prompts utilizados se encontram em meu GitHub |
 
 
 ### Midjourney：
