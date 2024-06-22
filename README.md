@@ -58,7 +58,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p>
     <a href="https://github.com/HeberSales">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/heber-sales">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/heber-sales">LinkedIn</a>
 &nbsp;|&nbsp;
 </p>
 
